@@ -1,0 +1,12 @@
+target 'EyeDemo' do
+
+pod 'AFNetworking'
+pod 'MJRefresh'
+pod 'MJExtension'
+pod 'SDWebImage'
+pod 'Masonry'
+pod 'Toast'
+pod 'MBProgressHUD'
+pod 'SVProgressHUD'
+
+end
